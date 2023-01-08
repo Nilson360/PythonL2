@@ -5,7 +5,7 @@ print(type(x)) #voir le type de la variable
 print(type(y))
 print(type(z))
 
-
+print("-------------------Many values to multiple variables------------------------------")
 #Many values to multiple variables
 
 a,b,c = "Orange", "Banana", "Cherry"
@@ -13,5 +13,10 @@ print(a)
 print(b)
 print(c)
 
-#One value for multiple variables
+print("-------------------Unpack a collection------------------------------")
+#Unpack a collection
 
+fruits = ["apple","banana","cherry"]
+ap, ba , ch = fruits
+
+print(ap,ba,ch)
