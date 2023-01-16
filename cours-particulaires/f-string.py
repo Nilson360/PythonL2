@@ -18,3 +18,5 @@ print(1.1+1/3)
 print("---------------- GC exemple --------------------------")
 prop_GC  = (4500 + 2575)/14800
 print(f"La proportion de GC est {prop_GC:.4f}")
+a = 1+1 is 2
+print(a)
