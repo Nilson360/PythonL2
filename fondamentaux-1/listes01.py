@@ -95,3 +95,13 @@ print("élément de la liste", zoo[1])
 
 # Pour accéder à un élément de la sous-liste, on utilise un double indiçage:
 print("sous liste ", zoo[1][0])
+
+# MINIMUM, MAXIMUM ET SOMME D'UNE LISTE
+
+# Les fonctions min(), max() et sum() renvoient respectivement le minimum, le maximum et la somme d'une liste passée en argument
+liste =list(range(10))
+print("Ma liste",  liste)
+print("La somme de ma liste " , sum(liste))
+print("Maximum de ma liste " , max(liste))
+print("Minimum de ma liste " , min(liste))
+print("test ", min(liste,-1))
