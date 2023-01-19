@@ -105,3 +105,4 @@ print("La somme de ma liste " , sum(liste))
 print("Maximum de ma liste " , max(liste))
 print("Minimum de ma liste " , min(liste))
 print("test ", min(liste,-1))
+

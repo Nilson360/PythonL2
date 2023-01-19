@@ -8,3 +8,30 @@
 
 # 1.
 jSemaines = ["Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi","Dimanche"]
+print("5 premiers jours de la semaine ", jSemaines[0:5])
+print("Jours du week-end ", jSemaines[5:7])
+
+# 2.
+
+
+# 3.
+
+
+# 4. 
+x = [1,2,3,4,5,6]
+print(x.reversed())
+
+
+
+
+# 4.10.2 Saisons
+# Créez 4 listes hiver, printemps, ete et automne contenant les mois correspondants à ces saisons. Créez ensuite une liste saisons contenant les listes hiver, printemps, ete et automne. Prévoyez ce que renvoient les instructions suivantes, puis vérifiez-le dans l’interpréteur :
+# 1. saisons[2]
+# 2. saisons[1][0]
+# 3. saisons[1:2]
+# 4. saisons[:][1]. Comment expliquez-vous ce dernier résultat ?
+
+
+# 4.10.3 Table de multiplication par 9
+# # Affichez la table de multiplication par 9 en une seule commande avec les instructions range() et list(). 4.10.4 Nombres pairs
+# Répondezàlaquestionsuivanteenuneseulecommande.Combienya-t-ildenombrespairsdansl’intervalle[2, 10000] inclus ?
