@@ -45,4 +45,4 @@ from math import cos,sin,pi
 t= 2
 cos(t)>=0 and sin(t)>= 0
 
- t -= 0 and t -= pi/2
+ (t = t- 0 or t = t - pi/2)
